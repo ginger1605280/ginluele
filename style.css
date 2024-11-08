@@ -1,0 +1,38 @@
+.ginluele{
+    background-color: rgb(255, 114, 189);
+    border-style: solid;
+    border-width: 10px;
+    border-color:rgb(236, 23, 136);
+    border-radius: 35px;
+
+
+    text-align: center;
+
+    color:black; 
+    
+}
+
+.gianni{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.foglio {
+    border-style: solid;
+    border-color: darkmagenta;
+    position: absolute;
+    top: 300px;
+    left: 500px;
+}
+
+.lucrezia{
+    border-color: rgba(208, 43, 226, 0.763);
+}
+
+.ginevra {
+    border-color: rgb(209, 29, 222);
+}
+
+.eleonora {
+    border-color: rgb(219, 31, 233);
+}
